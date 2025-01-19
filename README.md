@@ -15,3 +15,8 @@ location (type `userdata` in Flow Launcher).
 Type `hltb` followed by a search query. The results will show summarized info,
 while the context menu will show detailed info. Selecting an entry will
 open the game entry on HowLongToBeat.com in a new browser tab.
+
+# Credits
+
+Inspired by [a similar plugin](https://github.com/Tueska/fl-howlongtobeat) by
+[Tueska](https://github.com/Tueska), which does not work currently.
