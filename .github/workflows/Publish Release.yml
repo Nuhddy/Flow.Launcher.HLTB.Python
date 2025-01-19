@@ -10,9 +10,8 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python_version: 3.11
+    env:
+      python_version: 3.11
 
     steps:
       - uses: actions/checkout@v2
