@@ -7,7 +7,7 @@ from [HowLongToBeat.com](https://howlongtobeat.com/).
 
 Python 3.11 or later required.
 
-Install manually to the `Plugins` folder in your Flow Launcher UserData
+Install in Flow Launcher with `pm install hltb nuhddy`, or install manually to the `Plugins` folder in your Flow Launcher UserData
 location (type `userdata` in Flow Launcher).
 
 # Usage
